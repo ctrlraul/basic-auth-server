@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "outDir": "build",
+        "removeComments": true,
+        "preserveConstEnums": true,
+        "sourceMap": true,
+        "strict": true,
+        "esModuleInterop": true
+    },
+    "files": ["src/index.ts"]
+}
